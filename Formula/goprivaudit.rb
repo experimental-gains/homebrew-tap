@@ -1,8 +1,8 @@
 class Goprivaudit < Formula
   desc "Audit GOPRIVATE/GONOSUMDB config against go.mod and git rewrites"
   homepage "https://github.com/experimental-gains/goprivaudit"
-  url "https://github.com/experimental-gains/goprivaudit/archive/refs/tags/v0.1.53.tar.gz"
-  sha256 "51580cd0049d6c1f0dd5898435d634e11dfdcb906e6c553f4077df6117e75312"
+  url "https://github.com/experimental-gains/goprivaudit/archive/refs/tags/v0.1.54.tar.gz"
+  sha256 "f87616adf4cf9336e815c47c170213a95adda50c18e490d74e39b60e61ab53d4"
   license "MIT"
   head "https://github.com/experimental-gains/goprivaudit.git", branch: "main"
 
