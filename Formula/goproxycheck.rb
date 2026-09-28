@@ -1,8 +1,8 @@
 class Goproxycheck < Formula
   desc "Diagnose why a Go module version isn't fetchable via the proxy"
   homepage "https://github.com/experimental-gains/goproxycheck"
-  url "https://github.com/experimental-gains/goproxycheck/archive/refs/tags/v0.1.45.tar.gz"
-  sha256 "bb8b02268467e5c61913dc81f34b0aa4adac898b2bb165283c08d0ba7495d67a"
+  url "https://github.com/experimental-gains/goproxycheck/archive/refs/tags/v0.1.46.tar.gz"
+  sha256 "68f77273d9bc15c828efbcba0a5c10840d41c2f512c4e62070c3ba2ccffa7179"
   license "MIT"
   head "https://github.com/experimental-gains/goproxycheck.git", branch: "main"
 
