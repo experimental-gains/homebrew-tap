@@ -1,8 +1,8 @@
 class Modslop < Formula
   desc "Catch slopsquatted and hallucinated Go module names in go.mod"
   homepage "https://github.com/experimental-gains/modslop"
-  url "https://github.com/experimental-gains/modslop/archive/refs/tags/v0.2.54.tar.gz"
-  sha256 "c78a424d32dc59518a872d5e698ef7f82b82dcb0a02a69c485ef46cff79ec22d"
+  url "https://github.com/experimental-gains/modslop/archive/refs/tags/v0.2.55.tar.gz"
+  sha256 "7529d2c349305a22ce99eb473e18f3552fd9dbc5605b18949b20c6fc444e9536"
   license "MIT"
   head "https://github.com/experimental-gains/modslop.git", branch: "main"
 
