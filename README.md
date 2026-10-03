@@ -7,6 +7,7 @@ brew tap experimental-gains/tap
 brew install modslop
 brew install goproxycheck
 brew install goprivaudit
+brew install hfaudit
 ```
 
 ## Formulas
@@ -19,8 +20,11 @@ brew install goprivaudit
 - **[goprivaudit](https://github.com/experimental-gains/goprivaudit)** —
   audit `GOPRIVATE`/`GONOSUMDB` config against `go.mod` dependencies and
   git `insteadOf` rewrites.
+- **[hfaudit](https://github.com/experimental-gains/hfaudit)** — catch
+  hallucinated or typosquatted Hugging Face model/dataset IDs before you
+  run `from_pretrained(...)` on one.
 
-All three are also installable directly with no tap, e.g.
+All four are also installable directly with no tap, e.g.
 `go install github.com/experimental-gains/modslop@latest` — this tap is
 an additional, non-Go-toolchain-requiring install path for `brew` users.
 
