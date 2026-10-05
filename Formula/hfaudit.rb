@@ -1,8 +1,8 @@
 class Hfaudit < Formula
   desc "Catch hallucinated or typosquatted Hugging Face model/dataset IDs"
   homepage "https://github.com/experimental-gains/hfaudit"
-  url "https://github.com/experimental-gains/hfaudit/archive/refs/tags/v0.1.12.tar.gz"
-  sha256 "9686c56a91c55c3898945a3dec0f64ec6c0465d50baaacd0f0d1b6f2a708303a"
+  url "https://github.com/experimental-gains/hfaudit/archive/refs/tags/v0.1.13.tar.gz"
+  sha256 "d917c36c16207782ac32df847fdff423f4d13ef083f6128272ee050ddb43f80e"
   license "MIT"
   head "https://github.com/experimental-gains/hfaudit.git", branch: "main"
 
